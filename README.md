@@ -13,6 +13,7 @@ X-Environment (X = Integrated Control System)
 | DataFormatServer   | Tango/Java 11+ | [GitHub](https://github.com/hzg-wpi/data-format-server) | [![Download](https://img.shields.io/github/release/hzg-wpi/data-format-server.svg?style=flat)](https://github.com/hzg-wpi/data-format-server/releases/latest)|
 | CamelIntegration   | Tango/Java 11+ | [GitHub](https://github.com/hzg-wpi/camel-integration) | [![Download](https://img.shields.io/github/release/hzg-wpi/camel-integration.svg?style=flat)](https://github.com/hzg-wpi/camel-integration/releases/latest)|
 | HeadQuarter   | Tango/Java 11+ | [GitHub](https://github.com/hzg-wpi/xenv-hq) | [![Download](https://img.shields.io/github/release/hzg-wpi/xenv-hq.svg?style=flat)](https://github.com/hzg-wpi/xenv-hq/releases/latest)|
+| TangoRestServer   | Java 11+ | [GitHub](https://github.com/hzg-wpi/rest-server) | [![Download](https://img.shields.io/github/release/hzg-wpi/rest-server.svg?style=flat)](https://github.com/hzg-wpi/rest-server/releases/latest)|
 
 ## Clients
 
