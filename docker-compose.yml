@@ -9,6 +9,13 @@ networks:
       driver: default
 
 services:
+  mongodb:
+    image: mongo
+    ports:
+      - "27017:27017"
+    networks:
+      public_net:
+        ipv4_address: 192.169.0.10
   tango-db:
     image: tangocs/mysql:Database-Release-5.9
     ports:
@@ -45,9 +52,20 @@ services:
   tango-admin:
     build: tango/admin
     environment:
-      - TANGO_HOST=tango-cs:10000
+      - TANGO_HOST=192.169.0.30:10000
     networks:
       public_net:
         ipv4_address: 192.169.0.111
     depends_on:
+      - tango-cs
+  xenv-hq:
+    image: hzhereon/xenv-hq:latest
+    environment:
+      - TANGO_HOST=192.169.0.30:10000
+      - MONGODB_HOST=192.169.0.10:27017
+    networks:
+      public_net:
+        ipv4_address: 192.169.0.40
+    depends_on:
+      - mongodb
       - tango-cs
