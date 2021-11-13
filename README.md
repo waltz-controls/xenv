@@ -38,7 +38,9 @@ X-Environment (X = Integrated Control System)
 
 ## Publications
 
-[1] I.Khokhriakov, et al., Integrated control system environment for high-throughput tomography, SPIE Proc. 2017 [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10391/103911H/Integrated-control-system-environment-for-high-throughput-tomography/10.1117/12.2275863.short)
+[1] I.Khokhriakov, et al., A Platform for Tango Controls Web Applications, Proceedings of ICALEPCS2019, WESH3003, 2019 [link](https://accelconf.web.cern.ch/icalepcs2019/doi/JACoW-ICALEPCS2019-WESH3003.html)
 
+[2] I.Khokhriakov, et al., Integrated control system environment for high-throughput tomography, SPIE Proc. 2017 [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10391/103911H/Integrated-control-system-environment-for-high-throughput-tomography/10.1117/12.2275863.short)
 
-[2] I.Khokhriakov, et al., Integrated control system environment for high-throughput tomography, SPIE Proc. 2014 [link](http://spie.org/Publications/Proceedings/Paper/10.1117/12.2060975)
+[3] I.Khokhriakov, et al., Integrated control system environment for high-throughput tomography, SPIE Proc. 2014 [link](http://spie.org/Publications/Proceedings/Paper/10.1117/12.2060975)
+
