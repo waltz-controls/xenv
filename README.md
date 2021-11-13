@@ -28,6 +28,13 @@ X-Environment (X = Integrated Control System)
 | XenvHQ   | Waltz | [GitHub](https://github.com/waltz-controls/xenvhq-waltz-plugin) |
 | TangoRestServer   | Servlet 4.1/Java 11+ | [GitHub](https://github.com/waltz-controls/rest-server) |
 
+## Libraries
+
+| Name | Platform | Repository |
+|----------|-------|-----------|
+| JTango   | Java 11+ | [GitHub](https://github.com/waltz-controls/jtango) |
+
+
 ## Publications
 
 [1] I.Khokhriakov, et al., Integrated control system environment for high-throughput tomography, SPIE Proc. 2017 [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10391/103911H/Integrated-control-system-environment-for-high-throughput-tomography/10.1117/12.2275863.short)
