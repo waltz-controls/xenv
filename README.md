@@ -33,6 +33,7 @@ X-Environment (X = Integrated Control System)
 | Name | Platform | Repository |
 |----------|-------|-----------|
 | JTango   | Java 11+ | [GitHub](https://github.com/waltz-controls/jtango) |
+| libpniio-jni   | Java 11+/Debian 10 x86_64 | [GitHub](https://github.com/waltz-controls/libpniio-jni) |
 
 
 ## Publications
