@@ -4,6 +4,8 @@ X-Environment (X = Integrated Control System)
 
 ![](xenv.png)
 
+Project's miro board: [here](https://miro.com/app/board/o9J_lFSILj0=/?invite_link_id=981403796717)
+
 ## Servers
 
 | Name | Platform | Repository | Download |
