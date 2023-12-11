@@ -12,7 +12,7 @@ Project's miro board: [here](https://miro.com/app/board/o9J_lFSILj0=/?invite_lin
 |----------|-------|-----|-----------|
 | PreExperimentDataCollector   | Tango/Java 11+ | [GitHub](https://github.com/waltz-controls/pre-experiment-data-collector) | [![Download](https://img.shields.io/github/release/waltz-controls/pre-experiment-data-collector.svg?style=flat)](https://github.com/waltz-controls/pre-experiment-data-collector/releases/latest)|
 | StatusServer   | Tango/Java 11+ | [GitHub](https://github.com/waltz-controls/status-server) | [![Download](https://img.shields.io/github/release/waltz-controls/status-server.svg?style=flat)](https://github.com/waltz-controls/status-server/releases/latest)|
-| StatusServer3 | Tango/C++11 | [GtiLab](https://codebase.helmholtz.cloud/hereon-wpi/status-server3)  |  |
+| StatusServer3 | Tango/C++11 | [GitLab](https://codebase.helmholtz.cloud/hereon-wpi/status-server3)  |  |
 | DataFormatServer   | Tango/Java 11+ | [GitHub](https://github.com/waltz-controls/data-format-server) | [![Download](https://img.shields.io/github/release/waltz-controls/data-format-server.svg?style=flat)](https://github.com/waltz-controls/data-format-server/releases/latest)|
 | DataFormatServer3 | Tango/C++11 | [GitLab](https://codebase.helmholtz.cloud/hereon-wpi/data-fomat3) |  |
 | CamelIntegration   | Tango/Java 11+ | [GitHub](https://github.com/waltz-controls/camel-integration) | [![Download](https://img.shields.io/github/release/waltz-controls/camel-integration.svg?style=flat)](https://github.com/waltz-controls/camel-integration/releases/latest)|
